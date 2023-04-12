@@ -1,2 +1,2 @@
 # git-platzi-course
-This is the repofor Git course in Platzi
+This is the repo for Git course in Platzi
